@@ -1,2 +1,4 @@
-bunchyNodejs. test update.
+bunchyNodejs.
 ============
+
+Test update for gitman.
